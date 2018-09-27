@@ -1,3 +1,8 @@
+---
+title: Lazy Taco Bowls
+layout: post
+---
+
 # LAZY TACO BOWLS
 
 ## STEP ZERO: SHOPPING
